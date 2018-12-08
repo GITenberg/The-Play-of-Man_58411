@@ -1,16 +1,21 @@
 _repo: The-Play-of-Man_58411
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Baldwin, Elizabeth L.
     gutenberg_agent_id: '49939'
     url: http://www.gutenberg.org/2009/agents/49939
+covers:
+- cover_type: archival
+  image_path: 58411-h/images/cover.jpg
 creator:
   author:
     agent_name: Gross, Karl
     gutenberg_agent_id: '49938'
     url: http://www.gutenberg.org/2009/agents/49938
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58411#The-Play-of-Man
 gutenberg_issued: '2018-12-04'
 gutenberg_type: Text
 identifiers:
